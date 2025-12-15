@@ -1,8 +1,7 @@
 class HelloWorld:
     def say_hello(self):
         print("Hello, india!")
-        print("good morning")
-      
+        
 
 
 def main():
